@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, use_key_in_widget_constructors, prefer_const_declarations, avoid_unnecessary_containers, avoid_print
+// ignore_for_file: prefer_const_constructors, use_key_in_widget_constructors, prefer_const_declarations, avoid_unnecessary_containers, avoid_print, unnecessary_null_comparison
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'dart:convert';
